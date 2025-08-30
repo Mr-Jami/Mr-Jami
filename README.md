@@ -11,10 +11,6 @@ export class Tareq {
 }
 ```
 
-## ⭐ Featured Project
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ng-openapi&repo=ng-openapi)](https://github.com/ng-openapi/ng-openapi)
-
 ## 📫 Let's connect
 [![X (formerly Twitter) URL](https://img.shields.io/badge/twitter-000000.svg?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/nnclovin)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tareqjami)
